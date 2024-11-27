@@ -18,7 +18,11 @@ Banco Resumo mensal
 Link do vídeo do funcionamento do projeto: https://youtu.be/fsN6f-Eh0eE
 
 UNIMAR - Universidade de Marília
+
 Curso: Analise e desenvolvimento de sistemas
+
 Disciplina: Desenvolvimento Web
+
 Professor: Valdir
+
 Nome_RA: Miguel Pires_1999181, Vinicius Press_2003646, Silvio Alex_2001906
